@@ -1,7 +1,7 @@
-Real-Time Chat Application
+# Real-Time Chat Application
 A fullstack, real-time chat application built with Node.js, Express, Socket.io, and React. It features a global chat room, online user lists, and real-time typing indicators, all styled with Tailwind CSS.
 
-Features
+## Features
 Global Chat Room: All connected users can send and receive messages in real-time.
 
 Real-Time Messaging: Uses WebSockets (Socket.io) for instant message delivery.
